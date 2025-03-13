@@ -1,0 +1,6 @@
+gradio
+numpy
+scikit-learn
+openpyxl
+pickle5
+pandas
